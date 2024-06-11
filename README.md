@@ -1,5 +1,5 @@
 # Neural-Networks
-Building ANN from Stratch
+Building Simple ANN from Stratch
 This project shows how to build a simple neural network from scratch that can use chemical features of wine to guess how good it will be. The Wine Quality dataset from the UCI Machine Learning Repository was used for this project.
 
 Set of data
